@@ -11,3 +11,11 @@ After installing version 5.4.2f1 of Unity, I was unable to launch the Unity edit
 Note:  AppData is a hidden folder so you'll need to configure Windows Explorer to show hidden folders, or run `%AppData%` to bring up the folder (from the Start menu, type `%AppData%` or use `Windows Key + R` to bring up the Run dialog).
 
 This looks like a regression since the 5.4.1 installer worked fine and didn't have either of the problems above.  Hopefully this get fixed soon because it's a pain to diagnose and resolve.
+
+# tutorials
+
+A miscellaneous note on the Tanks tutorial (https://unity3d.com/learn/tutorials/projects/tanks-tutorial):
+
+Clicking the "DOWNLOAD PROJECT FILES" button the tutorial web page brought up the assets page in the asset store, but clicking the 'Open in Unity' button on that page would only launch Unity and leave me at the project creation dialog.
+
+To start out with this tutorial, create a new project and from within your new project, open the asset store window (on the menu, `Window > Asset Store`).  Search for "tanks" and select the "Tanks! Tutorial" package. 
